@@ -1,5 +1,3 @@
-# Howdy 👋
-
 ![image](https://github.com/KDragHowdy/KDragHowdy/assets/151269174/a056e1a7-0bfc-418e-9ef0-bb22de3c89ce)
          I’m currently working on my 3rd year in Biomedical Science at A&M in College Station
 ![image](https://github.com/KDragHowdy/KDragHowdy/assets/151269174/7e104fdb-e050-4d3f-8799-71d25dfb8e76)
